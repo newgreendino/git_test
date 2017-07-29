@@ -7,3 +7,4 @@ def knedlik(x):
 
 
 knedlik(0)
+knedlik(10)
